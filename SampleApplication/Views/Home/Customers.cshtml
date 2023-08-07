@@ -1,0 +1,107 @@
+﻿@model IEnumerable<SampleApplication.Models.Customer>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+
+
+<style>
+    table, tr td {
+        border: 1px solid gray;
+    }
+
+    tbody {
+        display: block;
+        height: 400px;
+        overflow: auto;
+    }
+
+        thead, tbody tr {
+            display:table;
+            width: 100%;
+            table-layout:fixed; /* even columns width , fix width of table too */
+        }
+
+    thead {
+        width: calc( 100% - 1em ) /* scrollbar is average 1em/16px width, remove it from thead width*/ 
+    }
+
+    table {
+        width: 500px;
+    }
+</style>
+
+ <table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lastname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone_Number)
+            </th>
+            <th style="width:10%;">
+                @Html.DisplayNameFor(model => model.Country_Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Balancepublic)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody >        
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lastname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone_Number)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country_Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td style="width:10%;">
+                    @Html.DisplayFor(modelItem => item.Balancepublic)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> 
+
+<p>
+    <a asp-controller="Home" asp-action="Create">Add New Customer</a>
+</p>
+
+
