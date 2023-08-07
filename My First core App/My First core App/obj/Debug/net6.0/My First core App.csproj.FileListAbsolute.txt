@@ -1,0 +1,31 @@
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\appsettings.Development.json
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\appsettings.json
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\My First core App.staticwebassets.runtime.json
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\My First core App.exe
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\My First core App.deps.json
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\My First core App.runtimeconfig.json
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\My First core App.dll
+D:\Practice\My First core App\My First core App\bin\Debug\net6.0\My First core App.pdb
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.csproj.AssemblyReference.cache
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.AssemblyInfoInputs.cache
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.AssemblyInfo.cs
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.csproj.CoreCompileInputs.cache
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.RazorAssemblyInfo.cache
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.RazorAssemblyInfo.cs
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets\msbuild.My First core App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets\msbuild.build.My First core App.props
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.My First core App.props
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.My First core App.props
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\scopedcss\bundle\My First core App.styles.css
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\scopedcss\projectbundle\My First core App.bundle.scp.css
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.dll
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\refint\My First core App.dll
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.pdb
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\My First core App.genruntimeconfig.cache
+D:\Practice\My First core App\My First core App\obj\Debug\net6.0\ref\My First core App.dll
